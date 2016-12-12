@@ -1,0 +1,9 @@
+To compile, use Makefile by running make from same directory as source code. 
+Executable file will be named mash. 
+
+A basic implementation of a shell that prints a prompt and forks a new processes 
+when a command is entered. Implements pipes and stream redirections. Implements 
+several built in commands, including pwd, cd, exit, and setenv. 
+
+Franklin D. Worrell
+12 December 2016
