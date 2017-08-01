@@ -1,4 +1,4 @@
-##Description
+## Description
 This directory contains programs written for a course in Assembly Language (CSCI 2450) taken in Spring 2016. The language is 32-bit Microsoft Macro Assembler (MASM). 
 
 Two programs, Fibonacci.asm and Encryption.asm make use of the the Irvine32 library provided with Kip Irvine's textbook "Assembly Language for x86 Processors"--the textbook used for the course. The first program, Fibonacci.asm is designed to illustrate recursion in MASM and computes and prints the third Fibonacci number. Encryption.asm takes an input file name, an encryption key string, and an output file name and uses the key to encrypt the input file and write it to the output file. 
